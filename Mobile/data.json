@@ -1,0 +1,82 @@
+[
+  {
+    "title": "Moto ZIMOTA RKS Max 125CC Gris",
+    "posterUrl": "image-01.webp",
+    "location": {
+      "latitude": 31.293058,
+      "longitude": -9.2350038,
+      "latitudeDelta": 0.0922,
+      "longitudeDelta": 0.0421
+    }
+  },
+  {
+    "title": "Moto ZIMOTA RKS Max 125CC Rouge",
+    "posterUrl": "image-02.jpg",
+    "location": {
+      "latitude": 32.293058,
+      "longitude": -8.2350038,
+      "latitudeDelta": 0.0922,
+      "longitudeDelta": 0.0421
+    }
+  },
+  {
+    "title": "Motocycle FORZA IM MOTORS MAX II 107CC CM³ en Gris",
+    "posterUrl": "image-03.webp",
+    "location": {
+      "latitude": 31.293058,
+      "longitude": -7.2350038,
+      "latitudeDelta": 0.0922,
+      "longitudeDelta": 0.0421
+    }
+  },
+  {
+    "title": "Motocycle FORZA IM MOTORS MAX II 107CC CM³ en Rouge",
+    "posterUrl": "image-04.webp",
+    "location": {
+      "latitude": 33.293058,
+      "longitude": -8.2350038,
+      "latitudeDelta": 0.0922,
+      "longitudeDelta": 0.0421
+    }
+  },
+  {
+    "title": "Motocycle Uniscoot Forza Max 107 CC Automatique 4 Vitesses",
+    "posterUrl": "image-05.webp",
+    "location": {
+      "latitude": 32.293058,
+      "longitude": -4.2350038,
+      "latitudeDelta": 0.0922,
+      "longitudeDelta": 0.0421
+    }
+  },
+  {
+    "title": "Motocycle SUZUKI EN125-2A Monocylindre 5 vitesses en Noir",
+    "posterUrl": "image-06.webp",
+    "location": {
+      "latitude": 31.293058,
+      "longitude": -5.2350038,
+      "latitudeDelta": 0.0922,
+      "longitudeDelta": 0.0421
+    }
+  },
+  {
+    "title": "Motocycle JAILING IM MOTORS 107CC CM³ en Rouge",
+    "posterUrl": "image-07.webp",
+    "location": {
+      "latitude": 33.293058,
+      "longitude": -8.2350038,
+      "latitudeDelta": 0.0922,
+      "longitudeDelta": 0.0421
+    }
+  },
+  {
+    "title": "Motocycle JAILING IM MOTORS 107CC CM³ en Gris",
+    "posterUrl": "image-08.jpg",
+    "location": {
+      "latitude": 33.903058,
+      "longitude": -6.50038,
+      "latitudeDelta": 0.0922,
+      "longitudeDelta": 0.0421
+    }
+  }
+]
